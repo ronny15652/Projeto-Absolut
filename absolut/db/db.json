@@ -1,0 +1,61 @@
+{
+  "TabelaProduto": {
+    "mesa": [],
+    "Comer": [
+      {
+        "id": "1",
+        "name": "Picanha",
+        "preço": "[ Porçao: 66,00 ] [ Meia: 35,00 ]"
+      },
+      {
+        "id": "2",
+        "name": "Arroz à Piamontese",
+        "preço": "[ Porçao: 13,00 ] [ Meia: 6,50 ]"
+      }
+    ],
+    "Beber": [
+      {
+        "id": "1",
+        "name": "CocaCola",
+        "preço": "[ 1L: 6,00 ] [ 2L: 9,00 ]"
+      },
+      {
+        "id": "2",
+        "name": "Guaraná",
+        "preço": "[ 1L: 6,00 ] [ 2L: 9,00 ]"
+      },
+      {
+        "id": "3",
+        "name": "SmirnOff",
+        "preço": "15,00"
+      }
+    ],
+    "Disponivel": [
+      {
+        "id": 1,
+        "tipo": " Disponivel "
+      },
+      {
+        "id": 2,
+        "tipo": " Faltando "
+      }
+    ],
+    "Status": [
+      {
+        "id": 1,
+        "tipo": " Solicitado "
+      },
+      {
+        "id": 2,
+        "tipo": " Em produção "
+      },
+      {
+        "id": 3,
+        "tipo": " Finalizado "
+      }
+    ]
+  },
+  "TabelaPedidos": {
+   
+  }
+}
